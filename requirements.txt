@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+openai
+python-dotenv
+faiss-cpu
+tiktoken
+pydantic
+numpy
+pypdf
