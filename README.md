@@ -1,4 +1,4 @@
-# docqa-portal – Internal Document Q&A Bot (RAG)# docqa-portal
+
 
 # docqa-portal – Internal Document Q&A Bot (RAG)
 
@@ -8,7 +8,6 @@
 
 自然文で質問できるQ&Aチャットボットのプロトタイプです。
 
-## Features
 
 ## Features
 
@@ -28,7 +27,7 @@
 
 - Streamlit 製の簡易Web UI
 
-## Tech Stack
+
 
 ## Tech Stack
 
