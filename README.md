@@ -1,3 +1,5 @@
+![CI](https://github.com/joker082200/docqa-portal/actions/workflows/python-ci.yml/badge.svg)
+
 # docqa-portal
 
 
