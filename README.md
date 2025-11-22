@@ -1,14 +1,11 @@
-# docqa-portal – Internal Document Q&A Bot (RAG)# docqa-portal
+
 
 # docqa-portal – Internal Document Q&A Bot (RAG)
 
 社内に散在するマニュアル・FAQ・議事録などのドキュメントを対象に、
 
-自然文で質問できるQ&Aチャットボットのプロトタイプです。社内に散在するマニュアル・FAQ・議事録などのドキュメントを対象に、
-
 自然文で質問できるQ&Aチャットボットのプロトタイプです。
 
-## Features
 
 ## Features
 
@@ -28,7 +25,7 @@
 
 - Streamlit 製の簡易Web UI
 
-## Tech Stack
+
 
 ## Tech Stack
 
