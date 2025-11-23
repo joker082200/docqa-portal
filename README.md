@@ -46,7 +46,7 @@ A prototype chatbot that enables natural language queries across internal docume
 
 ### 📸 Demo
 
-![社内ドキュメントQ&AボットのStreamlit UI画面](screenshots/ui.png)
+![Streamlit UI interface of the internal document Q&A bot](screenshots/ui.png)
 
 ### 🛠️ Tech Stack- Streamlit 製の簡易Web UI- FastAPI による /ask エンドポイント
 
