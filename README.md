@@ -44,7 +44,9 @@ A prototype chatbot that enables natural language queries across internal docume
 
 - 🖥️ **Web UI**: Simple Streamlit-based interface- FastAPI による /ask エンドポイント- OpenAI Chat API による回答生成（RAG）
 
+### 📸 Demo
 
+![Streamlit UI interface of the internal document Q&A bot](screenshots/ui.png)
 
 ### 🛠️ Tech Stack- Streamlit 製の簡易Web UI- FastAPI による /ask エンドポイント
 
@@ -384,7 +386,9 @@ MIT
 
 - 🖥️ **Web UI**: Streamlit製の簡易インターフェースAPI は `http://localhost:8000` で利用可能になります。## File: requirements.txt
 
+### 📸 デモ
 
+![社内ドキュメントQ&AボットのStreamlit UI画面](screenshots/ui.png)
 
 ### 🛠️ 技術スタック
 
