@@ -1,0 +1,14 @@
+[
+    {
+        "question": "このシステムの主な機能は何ですか？",
+        "ground_truth": "RAG（Retrieval-Augmented Generation）を使用した社内ドキュメントの質問応答システムです。MarkdownとPDFファイルに対応し、FAISSによる類似検索とOpenAI APIで回答を生成します。"
+    },
+    {
+        "question": "どのような技術スタックを使用していますか？",
+        "ground_truth": "Python 3.11+、FastAPI、Streamlit、OpenAI API、FAISS、pypdfを使用しています。"
+    },
+    {
+        "question": "FAISSとは何ですか？",
+        "ground_truth": "FAISSは高速なベクトル類似検索ライブラリで、このシステムではドキュメントのベクトル検索に使用されています。"
+    }
+]

@@ -8,3 +8,5 @@ tiktoken
 pydantic
 numpy
 pypdf
+ragas
+datasets
